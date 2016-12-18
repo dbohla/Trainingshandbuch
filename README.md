@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Calls beim Ultimate Frisbee
 
-You can use the [editor on GitHub](https://github.com/dbohla/ultimate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Beim Ultimate Frisbee unterscheidet man folgende Calls: **Violations**, **Infractions**, sowie weitere Calls wie **Injury** oder **Technical**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Violations** und **Infractions** dürfen angezweifelt werden (**Contest**). Mehr dazu unter **Contested Foul**, etc.
 
-### Markdown
+### Violations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Violations sind Calls mit Spielunterbrechung, bei denen alle Spieler die Position einnehmen, die sie zum Zeitpunkt des Calls hatten. Nach der Unterbrechung wird die Scheibe eingecheckt.
 
-```markdown
-Syntax highlighted code block
+#### Foul
 
-# Header 1
-## Header 2
-### Header 3
+Einen spielverändernden oder gefährlichen Kontakt nennt man **Foul**. Ein **Foul** darf nur vom gefoulten Spieler gecallt werden. Es gibt verschiedene Arten von **Fouls**:
 
-- Bulleted
-- List
+Foul                    | Beschreibung
+:-----------------------|:------------
+Defensive Receiving Foul| Ein Receiver des angreifenden Teams wird beim Fangen vom Verteidiger gefoult.
+Force Out Foul          | Ein Receiver des angreifenden Teams wird in der Luft gefoult, so dass der Receiver außerhalb des Spielfelds oder im zentralen Spielfeld anstatt in der Endzone landet.
+Defensive Throwing Foul | Ein Marker des verteidigenden Teams berührt den Werfer, wodurch der Wurf beeinflusst wird.
+Offensive Receiving Foul| Ein Verteidiger wird beim Fangen vom Receiver des angreifenden Teams gefoult.
+Offensive Throwing Foul | Ein Werfer des angreifenden Teams berührt den Marker des verteidigenden Teams.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Strip
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ein Spieler in Scheibenbesitz verliert die Scheibe durch einen vom Gegenspieler verursachten Körper- oder Scheibenkontakt.
 
-### Jekyll Themes
+#### Pick
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbohla/ultimate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ein Verteidiger wird durch einen anderen Spieler daran gehindert seinen Gegenspieler zu verfolgen, z.B. durch enges Vorbeilaufen des Angreifers ab anderen Spielern. Die zwei betroffenen Spieler (Angreifer und Gegenspieler, der Pick gecallt hat) einigen sich auf ihre neuen Positionen. Der Gegenspieler darf dabei zum Angreifer aufschließen.
 
-### Support or Contact
+### Infractions
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Bei **Contested Infraction** wird das Spiel unterbrochen.
+
